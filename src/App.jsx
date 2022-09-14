@@ -1,4 +1,3 @@
-//import Feedback from 'components/Feedback/Feedback';
 import React from 'react';
 import Button from 'components/Button/Button';
 import Section from 'components/Section/Section';
